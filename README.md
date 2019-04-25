@@ -2,7 +2,7 @@
 
 The SUMMA Vocabulary enables to request and represent summarized RDF resources. It should be used in context to the SUMMA API definition.
 
-More information in the paper [SUMMA: A Common API for Linked Data Entity Summaries].(http://www.aifb.kit.edu/images/e/e4/Paper_92_final.pdf)
+More information in the paper [SUMMA: A Common API for Linked Data Entity Summaries](http://www.aifb.kit.edu/images/e/e4/Paper_92_final.pdf).
 
 If you use this work in an academic publication, please cite the paper:
   ```
